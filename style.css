@@ -60,11 +60,15 @@ section{
     border-left: 7px solid;
     border-image: linear-gradient(180deg lightsalmon tomato);
     border-image-slice: 1;
+    padding: 30px;
+    font-style: italic;
 }
 #baby-web{
     border-left: 7px solid;
     border-image: linear-gradient(180deg blue cyan);
     border-image-slice: 1;
+    padding: 30px;
+    font-style: italic;
 }
 footer p{
     text-align: center;
